@@ -1,29 +1,15 @@
-# BHOOT-Random-9
-# Best Random Clone 🔥Just Fire & Free🔥
+# BHOOT x JOHNY
+# Best Random Clone 🔥
+Just Fire & Free🔥
+
+![](https://github.com/LMNx9-JOHNY/BHOOT-Random-9/blob/main/IMG_20240422_031043.png)
+
+# Installation :
+    apt update && apt upgrade
+    git clone --depth=1 https://github.com/LMNx9-JOHNY/BHOOT-Random-9
+    cd BHOOT-Random-9
+    chmod +x *
+    python BHOOT_v2.0.py
 
 
-pkg update && pkg upgrade
-
-pkg install python
-
-pkg install git
-
-pip install requests
-
-pip install bs4
-
-pip install rich
-
-pip install michanize
-
-pip install future
-
-pip install urllib3
-
-
-git clone https://github.com/LMNx9-JOHNY/BHOOT-Random-9.git
-
-cd BHOOT-Random-9
-
-python BHOOTxJOHNY.py
- 
+# Join -> https://t.me/DARK_TEAM_LMNx9
